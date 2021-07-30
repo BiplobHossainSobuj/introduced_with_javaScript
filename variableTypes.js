@@ -1,0 +1,10 @@
+var firstNumber = 23;
+var secondNumber = "34";
+var subscribe = true;
+var nothing;
+var today = new Date;
+console.log(typeof firstNumber);
+console.log(typeof secondNumber);
+console.log(typeof subscribe);
+console.log(typeof nothing);
+console.log(typeof today);
